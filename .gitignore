@@ -1,0 +1,7 @@
+/clojure/**/target/
+/clojure/**/.lein-failures
+/kotlin/**/out/
+/kotlin/**/.idea/
+/clojure/**/.lein-repl-history
+/clojure/**/.nrepl-port
+metadata.json
